@@ -56,7 +56,11 @@ Tienda de informática
 
 Modelo entidad/relación
 
-
-
-
 Base de datos para MySQL
+![consulta1](https://github.com/escuelaDeCodigoMargaritaMaza/Base_de_Datos/assets/125502848/2f896781-dd5b-4d0d-b858-8485345fe66a)
+
+![consulta2](https://github.com/escuelaDeCodigoMargaritaMaza/Base_de_Datos/assets/125502848/f6c8234e-7070-4d1c-af07-322447983eae)
+
+![consulta3](https://github.com/escuelaDeCodigoMargaritaMaza/Base_de_Datos/assets/125502848/dbb2c025-5c21-4975-b05b-7bc41c5c5faf)
+
+![consulta4](https://github.com/escuelaDeCodigoMargaritaMaza/Base_de_Datos/assets/125502848/27e5aecc-3d07-4ac0-a3a9-24539df89c18)
